@@ -1,0 +1,6 @@
+[submodule "Assets/VRTK.Unity.Core"]
+	path = Assets/VRTK.Unity.Core
+	url = git@github.com:rgarat/VRTK.Unity.Core.git
+[submodule "Assets/VRTK.Unity.OculusUtilities"]
+	path = Assets/VRTK.Unity.OculusUtilities
+	url = git@github.com:rgarat/VRTK.Unity.OculusUtilities.git
